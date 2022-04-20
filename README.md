@@ -1,2 +1,2 @@
 # mfe-module-federation
-POC com Module Federation do webpack, usando como microfrontend para compartilhar dependência entre aplicações.
+POC para teste do Module Federation que é uma feature do webpack, que nos permite compartilhar dependências entre aplicações e definir quais módulos serão expostos para consumos e também quais queremos consumir.
